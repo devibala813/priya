@@ -1,5 +1,5 @@
-qwe=int(input())
-if(qwe%2==0):
-   print(qwe)
+qwe1=int(input())
+if(qwe1%2==0):
+   print(qwe1)
 else:
-   print(qwe-1)
+   print(qwe1-1)
