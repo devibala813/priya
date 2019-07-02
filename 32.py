@@ -1,2 +1,2 @@
-ch=input()
-print(len(ch.split()))
+dev=input()
+print(len(dev.split()))
