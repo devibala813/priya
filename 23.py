@@ -1,3 +1,3 @@
-abc=int(input())
-lid=list(map(int,input().split() [:abc]))
-print(min(lid))
+a=int(input())
+l=list(map(int,input().split()))
+print(min(l))
