@@ -1,5 +1,5 @@
-as=input()
-sd=0
-for i in range(0,len(as)):
-   sd+=int(as[i])
-print(sd)
+as1=input()
+sd2=0
+for i in range(0,len(as1)):
+   sd2+=int(as1[i])
+print(sd2)
