@@ -1,3 +1,5 @@
 a=int(input())
-l=list(map(int,input().split()))
-print(min(l))
+arr=[]
+for i in range(n):
+  arr=map(int,input().split())
+  print(min(arr))
