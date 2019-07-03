@@ -1,2 +1,2 @@
-a1=input()
-print(len(a1))
+fgh=input()
+print(len(fgh))
